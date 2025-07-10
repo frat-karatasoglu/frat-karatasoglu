@@ -41,19 +41,3 @@ Yazılım mühendisliği öğrencisiyim. Web ve mobil uygulama geliştirmeye oda
 - Frontend geliştirme
 - Bulut ve dağıtım teknolojileri (Docker, Yandex Cloud)
 
----
-
-## 📫 İletişim
-
-`fyrat.karatashoglu@urfu.me`
-
----
-> Bu profil dinamik içeriklerle oluşturulmuştur. GitHub profilime göz attığınız için teşekkürler!
-"""
-
-# Save to a markdown file
-updated_profile_path = "/mnt/data/PROFILE_WEB_MOBILE_README.md"
-with open(updated_profile_path, "w", encoding="utf-8") as file:
-    file.write(updated_profile_readme)
-
-updated_profile_path
