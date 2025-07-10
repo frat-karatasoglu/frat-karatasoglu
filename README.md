@@ -1,16 +1,59 @@
-## Hi there 👋
+# Update profile README to reflect focus on web and mobile development instead of game development
+updated_profile_readme = """
+# 👋 Merhaba
 
-<!--
-**frat-karatasoglu/frat-karatasoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yazılım mühendisliği öğrencisiyim. Web ve mobil uygulama geliştirmeye odaklanıyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub İstatistikleri
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frat-karatasoglu&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frat-karatasoglu&layout=compact&theme=midnight-purple)
+
+---
+
+## 🏆 GitHub Başarıları
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=frat-karatasoglu&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🛠️ Diller ve Teknolojiler
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+
+---
+
+## 🚀 İlgi Alanlarım
+
+- Web uygulamaları (HTML, CSS, JS)
+- Mobil uygulamalar (Android Studio, Kotlin)
+- Frontend geliştirme
+- Bulut ve dağıtım teknolojileri (Docker, Yandex Cloud)
+
+---
+
+## 📫 İletişim
+
+`fyrat.karatashoglu@urfu.me`
+
+---
+> Bu profil dinamik içeriklerle oluşturulmuştur. GitHub profilime göz attığınız için teşekkürler!
+"""
+
+# Save to a markdown file
+updated_profile_path = "/mnt/data/PROFILE_WEB_MOBILE_README.md"
+with open(updated_profile_path, "w", encoding="utf-8") as file:
+    file.write(updated_profile_readme)
+
+updated_profile_path
