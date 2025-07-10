@@ -1,6 +1,4 @@
-# Update profile README to reflect focus on web and mobile development instead of game development
-updated_profile_readme = """
-# 👋 Merhaba
+# 👋 Merhaba ben Fırat Karataşoğlu
 
 Yazılım mühendisliği öğrencisiyim. Web ve mobil uygulama geliştirmeye odaklanıyorum.
 
