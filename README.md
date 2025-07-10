@@ -1,4 +1,4 @@
-# 👋 Hello I'm Fırat Karatasoglu
+# 👋  About Me
 
 I'm a software engineering student focused on web and mobile app development.
 
