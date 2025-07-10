@@ -45,18 +45,3 @@ I'm a software engineering student focused on web and mobile app development.
 - Cloud & deployment tools (Docker, Yandex Cloud)
 
 ---
-
-## 📫 Contact
-
-`fyrat.karatashoglu@urfu.me`
-
----
-> This profile README is dynamically generated. Thank you for visiting my GitHub!
-"""
-
-# Save the English version to a markdown file
-english_profile_path = "/mnt/data/PROFILE_ENGLISH_README.md"
-with open(english_profile_path, "w", encoding="utf-8") as file:
-    file.write(english_profile_readme)
-
-english_profile_path
