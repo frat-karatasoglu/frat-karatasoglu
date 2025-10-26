@@ -9,7 +9,7 @@ I'm a software engineering student focused on web and mobile app development.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frat-karatasoglu&show_icons=true&theme=midnight-purple)
 
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frat-karatasoglu&layout=compact&theme=midnight-purple)
 
 ## 🛠️ Languages & Technologies
 
