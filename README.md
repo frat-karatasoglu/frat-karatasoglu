@@ -1,37 +1,38 @@
-# 👋  About Me
+<div align="center">
 
-I'm a software engineering student focused on web and mobile app development.
+# 👋 Hi, I'm Fırat Karataşoğlu
+
+### Software Engineering Student | Frontend Developer Candidate
+
+I focus on building scalable web applications and mobile solutions. Currently specializing in **React ecosystem** and modern UI technologies.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frat-karatasoglu&show_icons=true&theme=midnight-purple)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frat-karatasoglu&layout=compact&theme=midnight-purple)
-
-## 🛠️ Languages & Technologies
-
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=frat-karatasoglu&show_icons=true&theme=midnight-purple&hide_border=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frat-karatasoglu&layout=compact&theme=midnight-purple&hide_border=true" height="180" alt="languages" />
 </p>
 
+---
+
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,tailwind" />
+<br/>
+<img src="https://skillicons.dev/icons?i=python,git,vscode,androidstudio,figma" />
 
 ---
 
 ## 🚀 Interests
 
-- Web applications (HTML, CSS, JS)
-- Mobile apps (Android Studio, Kotlin)
-- Frontend development
-- Cloud & deployment tools (Docker, Yandex Cloud)
+</div>
 
----
+- 💻 **Frontend:** React.js, Redux Toolkit, Tailwind CSS, TypeScript
+- 📱 **Mobile:** Android Studio, Kotlin
+- 🐍 **Scripts:** Python
+- ☁️ **DevOps:** Git, Docker basics
+
+<div align="center">
+  <br>
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</div>
