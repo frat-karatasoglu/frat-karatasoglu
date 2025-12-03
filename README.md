@@ -6,14 +6,10 @@
 
 I focus on building scalable web applications and mobile solutions. Currently specializing in **React ecosystem** and modern UI technologies.
 
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frat-karatasoglu&show_icons=true&theme=midnight-purple&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frat-karatasoglu&layout=compact&theme=midnight-purple&hide_border=true" height="180" alt="languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frat-karatasoglu&theme=midnight_purple" alt="Top Languages" />
 </p>
 
----
 
 ## 🛠️ Tech Stack
 
