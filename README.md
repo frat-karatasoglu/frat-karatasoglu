@@ -2,9 +2,10 @@
 
 # 👋 Hi, I'm Fırat Karataşoğlu
 
-### Software Engineering Student | Frontend Developer Candidate
+### Software Engineering Student | Google AI & Tech Academy Fellow 🌍
+**Full Stack Developer (.NET & React)**
 
-I focus on building scalable web applications and mobile solutions. Currently specializing in **React ecosystem** and modern UI technologies.
+I focus on building scalable web applications. Currently specializing in the **.NET ecosystem**, **React**, and AI-integrated solutions.
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frat-karatasoglu&theme=midnight_purple" alt="Top Languages" />
@@ -13,9 +14,9 @@ I focus on building scalable web applications and mobile solutions. Currently sp
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,tailwind,html,css" />
 <br/>
-<img src="https://skillicons.dev/icons?i=python,git,vscode,androidstudio,figma" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,postgresql,python,git,docker" />
 
 ---
 
@@ -23,9 +24,9 @@ I focus on building scalable web applications and mobile solutions. Currently sp
 
 </div>
 
-- 💻 **Frontend:** React.js, Redux Toolkit, Tailwind CSS, TypeScript
-- 📱 **Mobile:** Android Studio, Kotlin
-- 🐍 **Scripts:** Python
+- 💻 **Frontend:** React.js, Next.js, Redux Toolkit, Tailwind CSS
+- ⚙️ **Backend:** .NET Core, C#, Entity Framework, PostgreSQL
+- 🐍 **AI & Scripts:** Python
 - ☁️ **DevOps:** Git, Docker basics
 
 <div align="center">
