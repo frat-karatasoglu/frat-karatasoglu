@@ -5,6 +5,12 @@
 ### Software Engineering Student | Google AI & Tech Academy Fellow 🌍
 **Full Stack Developer (.NET & React)**
 
+<a href="https://www.linkedin.com/in/firat-karatasoglu/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<br/>
+<br/>
+
 I focus on building scalable web applications. Currently specializing in the **.NET ecosystem**, **React**, and AI-integrated solutions.
 
 <p align="center">
