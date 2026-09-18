@@ -1,6 +1,7 @@
 ## Fırat Karataşoğlu
 
 **Python Developer · AI/LLM Engineer**
+
 Backend in Python/FastAPI · LLM, RAG and agent pipelines · Frontend in React/TypeScript
 
 Saint Petersburg, Russia — open to remote work.
@@ -30,18 +31,18 @@ I build software products end-to-end: FastAPI + PostgreSQL on the backend, React
 
 ### Tech
 
-**Languages** Python · TypeScript · JavaScript · Rust · C#
-**Backend** FastAPI · Flask · REST API · BFF / API Gateway · multi-tenant architecture · webhooks · Stripe
-**AI & LLM** OpenAI API · Gemini API · LangChain · RAG · grounding · function calling · AI agents · document parsing · Pandas · scikit-learn
-**Data** PostgreSQL · Supabase · SQL · SQLite
-**Frontend** React · Next.js · Redux Toolkit · Zustand · Tailwind CSS · Vite
-**Desktop** Tauri · Rust · .NET MAUI
-**Infra** Docker · Git · CI/CD · Render · Vercel · Yandex Cloud
+- **Languages** — Python · TypeScript · JavaScript · Rust · C#
+- **Backend** — FastAPI · Flask · REST API · BFF / API Gateway · multi-tenant architecture · webhooks · Stripe
+- **AI & LLM** — OpenAI API · Gemini API · LangChain · RAG · grounding · function calling · AI agents · document parsing · Pandas · scikit-learn
+- **Data** — PostgreSQL · Supabase · SQL · SQLite
+- **Frontend** — React · Next.js · Redux Toolkit · Zustand · Tailwind CSS · Vite
+- **Desktop** — Tauri · Rust · .NET MAUI
+- **Infra** — Docker · Git · CI/CD · Render · Vercel · Yandex Cloud
 
 I work daily with AI coding agents (Cursor, Claude Code): I define the task, review the output, and never ship code I haven't validated.
 
 ---
 
-**Languages** Turkish (native) · Russian (C1) · English (B1)
+**Languages** — Turkish (native) · Russian (C1) · English (B1)
 
 [LinkedIn](https://linkedin.com/in/frat-karatasoglu) · [Habr Career](https://career.habr.com/frat_karatasoglu) · [Telegram](https://t.me/frat_karatasoglu) · fyratkaratashoglu@yandex.ru
