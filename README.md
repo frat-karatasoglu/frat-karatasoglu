@@ -45,4 +45,4 @@ I work daily with AI coding agents (Cursor, Claude Code): I define the task, rev
 
 **Languages** — Turkish (native) · Russian (C1) · English (B1)
 
-[Portfolio](https://frat-karatasoglu.github.io/) · [LinkedIn](https://www.linkedin.com/in/frat-karatasoglu/) · [Habr Career](https://career.habr.com/frat_karatasoglu) · [Telegram](https://t.me/frat_karatasoglu) · fyratkaratashoglu@yandex.ru
+[Portfolio](https://frat-karatasoglu.github.io/) · [LinkedIn](https://www.linkedin.com/in/frat-karatasoglu/) · [Habr Career](https://career.habr.com/frat_karatasoglu) · [Telegram](https://t.me/frat_karatasoglu) · karatasoglufirat@gmail.com · fyratkaratashoglu@yandex.ru
